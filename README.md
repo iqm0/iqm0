@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Igor 👋
+
+<br /> I am a junior developer, training to become Full Stack. I am currently studying through Front End skills suck as HTML, CSS and JavaScript.
 
 <!--
 **iqm0/iqm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
