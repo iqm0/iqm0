@@ -25,6 +25,7 @@
 <br />
 
 😊 Pronouns: he, him, his.
+<br />
 From 🇧🇷 but moved to 🇬🇧 about 12 years ago.
 
 <h3 align="left">Connect with me:</h3>
