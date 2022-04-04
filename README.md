@@ -13,14 +13,14 @@
 🤓 More details about me:
 - 💼 Currently I work for Checkout.com in the Solutions team. We help merchants with their API integrations and troubleshooting requests and optimisations..
 - 📖 My focus is Front End Development, mainly JavaScript, React, JAMstack, Python, GraphQL, Gatsby, SCSS and Selenium.
-- 💪 My background and work experience was centered around customer service and sales. I really enjoy helping other people.
+- 💪 I wasn't always in Tech. My background and work experience was centered around retail, customer service and sales. I really enjoy helping other people and I really enjoy Tech
 
 <br />
 
 💬 Things to ask me about:
-- 🕹 Games: I am a huge Diablo fan and like looter-shooters (Destiny, Division), but I play a bit of everything (and indie games too);
-- ⌨️ Ideas for app projects, fiddling with Raspberry Pis and small SoCs, Mechanical Keyboards...
-- 🎹 Jazz and synthwave music. I used to play a lot back in my 20s, but nowadays it is mostly listening;
+- 🕹 Games: I am a huge Diablo and Apex Legends fan. I also like looter-shooters (Destiny, Division) and RPGs (Fallout, Skyrim), but I play a bit of everything (and indie games too, like Hades and Stardew Valley);
+- ⌨️ Hit me up with ideas for app projects, fiddling with Raspberry Pis and small SoCs, Mechanical Keyboards...
+- 🎹 Jazz and synthwave music. I used to play a lot back in my 20s, but nowadays it is mostly listening - still occasionally playing around with my MIDI controller in Ableton;
 
 <br />
 
