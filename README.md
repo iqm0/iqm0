@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my own personal project for a new learning platform using YouTube's API.**
 
-- 🌱 I’m currently learning **PHP, React and Next.js**
+- 🌱 I’m currently learning **PHP, React, Astro and Next.js**
 
-- 📫 How to reach me **igorqm@gmail.com**
+- 📫 How to reach me: **igorqm@gmail.com**
 
 
 🤓 More details about me:
