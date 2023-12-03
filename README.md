@@ -5,20 +5,20 @@
 
 - 🔭 I’m currently working on **my own personal project for a new learning platform using YouTube's API.**
 
-- 🌱 I’m currently learning **PHP, React, Astro and Next.js**
+- 🌱 I’m currently learning **Go, LLM and Datasets, Local and Cloud Neural Net / AIs, Databases (MongoDB and Postgres), Deployment (SCM, Flux, Helm, K8S and Docker) s**
 
-- 📫 How to reach me: **igorqm@gmail.com**
+- 📫 How to reach me: **igor@midotech.uk**
 
 
 🤓 More details about me:
 - 💼 Currently I work for Checkout.com in the Solutions team. We help merchants with their API integrations and troubleshooting requests and optimisations..
-- 📖 My focus is Front End Development, mainly JavaScript, React, JAMstack, Python, GraphQL, Gatsby, SCSS and Selenium.
+- 📖 My focus is Full Stack Development, mainly JavaScript, React, JAMstack, Python, GraphQL, Gatsby, SCSS and Selenium.
 - 💪 I wasn't always in Tech. My background and work experience was centered around retail, customer service and sales. I really enjoy helping other people and I really enjoy Tech
 
 <br />
 
 💬 Things to ask me about:
-- 🕹 Games: I am a huge Diablo and Apex Legends fan. I also like looter-shooters (Destiny, Division) and RPGs (Fallout, Skyrim), but I play a bit of everything (and indie games too, like Hades and Stardew Valley);
+- 🕹 Games: I am a longtime Diablo fan. I also like looter-shooters (Destiny, Division) and RPGs (Fallout, Skyrim), but I play a bit of everything (and indie games too, like Hades and Stardew Valley);
 - ⌨️ Hit me up with ideas for app projects, fiddling with Raspberry Pis and small SoCs, Mechanical Keyboards...
 - 🎹 Jazz and synthwave music. I used to play a lot back in my 20s, but nowadays it is mostly listening - still occasionally playing around with my MIDI controller in Ableton;
 
@@ -26,7 +26,7 @@
 
 😊 Pronouns: he, him, his.
 <br />
-From 🇧🇷 but moved to 🇬🇧 about 12 years ago.
+From 🇧🇷 but moved to 🇬🇧 about 14 years ago.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
