@@ -1,6 +1,6 @@
 ### Hey, I'm Igor 👋
 
-<br /> I am a JavaScript web developer.
+<br /> I am a Full Stack dev, interested in customer experiences, supporting internal teams and improving developer experiences.
 
 
 - 🔭 I’m currently working on **my own personal project for a new learning platform using YouTube's API.**
