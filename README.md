@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, LLM and Datasets, Local and Cloud Neural Net / AIs, Databases (MongoDB and Postgres), Deployment (SCM, Flux, Helm, K8S and Docker) s**
 
-- 📫 How to reach me: **igor@icloud.com**
+- 📫 How to reach me: **igorqm@icloud.com**
 
 
 🤓 More details about me:
