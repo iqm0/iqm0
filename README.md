@@ -1,6 +1,6 @@
 ### Hey, I'm Igor 👋
 
-<br /> I am a Full Stack dev, interested in customer experiences, supporting internal teams and improving developer experiences.
+<br /> I am a Software Engineer, interested in customer experiences, problem solving, supporting internal teams, improving developer's life and wellbeing.
 
 
 - 🔭 I’m currently working on **github.com/iqm0/comsen**, and my own personal project for a **new learning platform / tech school** using YouTube's API.
