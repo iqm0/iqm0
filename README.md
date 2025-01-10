@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on **github.com/iqm0/comsen**, and my own personal project for a **new learning platform / tech school** using YouTube's API.
 
 - 🌱 I’m currently learning **Go, LLM and Datasets, Local and Cloud Neural Net / AIs, Databases (MongoDB and Postgres), Deployment (SCM, Flux, Helm, K8S and Docker) s**
+- 
+- 🧠 Autistic, ADHD - I like to advocate and champion accessibility and inclusion in Tech, so I am always happy to openly talk about experiences and different perspectives.
 
 - 📫 How to reach me: **igorqm@icloud.com**
 
